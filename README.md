@@ -1,9 +1,8 @@
 # Emerson Passarin (@epassarin)
 
+👨‍🏫 Professor de Desenvolvimento de Sistemas (SP)
 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
 🎓 Pós-graduado em Cibersegurança e Neuromarketing  
-👨‍🏫 Professor de Desenvolvimento de Sistemas (SP)
-
 
 ## 💼 Experiência
 
@@ -14,14 +13,10 @@
 
 ## 🚀 Habilidades
 
-- 💻 Desenvolvimento: HTML, CSS, JavaScript, Python, C++  
-- 🔐 Segurança: Digital Forensic Investigation  
-- 🎯 Outras competências: UX, design e análise estratégica  
+- 💻 Desenvolvimento: HTML, CSS, JavaScript, Python, C++, Node.js, SQL  
+- 🔐 Segurança: Investigação digital 
+- 🎯 Outras competências: UX, design e análise estratégica de marketing
 
-
-## 📫 Contato
-
-📱 WhatsApp: (19) 99178-6966  
 
 ## 🌱 Em constante evolução
 
